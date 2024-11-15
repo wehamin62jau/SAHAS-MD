@@ -53,10 +53,7 @@ module.exports = {
 
 --- *👨‍💻🎉 _Welcome to SAHAS-MD!_* 🎉💗 
 
-*🔹 PREFIX:* .
-
 *🔹 OWNER:* 94718913389
-
 
 _Thank you for using_ *👨‍💻SAHAS-MD💗.*
 _We're here to make your experience enjoyable and seamless._
